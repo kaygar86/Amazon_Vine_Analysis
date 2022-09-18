@@ -1,5 +1,9 @@
 # Amazon_Vine_Analysis
 
+Google Colaboratory: https://colab.research.google.com/drive/1WiC71Yx2sjaob-egBmnRI63-IJWoStsL#scrollTo=V58rxea0HqSa
+
+I ran into an issue with the code so was not able to complete all deliverables.
+
 ## Deliverable 1 Requirements
 You will earn a perfect score for Deliverable 1 by completing all requirements below:
 - The Amazon_Reviews_ETL.ipynb file does the following:
