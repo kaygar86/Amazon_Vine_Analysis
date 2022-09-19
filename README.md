@@ -32,7 +32,12 @@ The report should contain the following:
 
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions:
 - How many Vine reviews and non-Vine reviews were there?
+I was not able to run the code so was not able to complete analysis. 
 - How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+I was not able to run the code so was not able to complete analysis. 
 - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+I was not able to run the code so was not able to complete analysis. 
 
-## Summary: In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+## Summary: 
+In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+I was not able to run the code so was not able to complete analysis. 
